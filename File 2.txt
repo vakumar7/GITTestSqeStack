@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 <--Branch bug1 changes -->
 
 Chagnes made by team mate
+=======
+Branch bug1 changes
+
+Branch bug2 changes
+>>>>>>> bug2
