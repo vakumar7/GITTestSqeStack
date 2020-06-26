@@ -5,3 +5,5 @@ Added line 2
 Pushing my first chagnes to Remote repo
 
 Changes made by a team mate on Remote Repo
+
+More changes made by team mate - to test conflict scenario
